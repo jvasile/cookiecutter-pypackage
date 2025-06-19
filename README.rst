@@ -16,7 +16,7 @@ Usage
 
 Generate a Python package project::
 
-    cookiecutter https://github.com/Nekroze/cookiecutter-pypackage.git
+    cookiecutter https://github.com/jvasile/cookiecutter-pypackage.git
 
 Then:
 
@@ -36,6 +36,7 @@ Similar Cookiecutter Templates
 
 * `audreyr/cookiecutter-pypackage`_: The original pypackage, uses unittest
 for testing and other minor changes.
+* `Nekroze/cookiecutter-pypackage`_: Upstream cookiecutter for this repo.
 
 Fork This
 ~~~~~~~~~
